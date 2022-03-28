@@ -71,4 +71,5 @@ int main()
 		cout << "Перемножение невозможно" << endl;
 	}
 	return 0;
+	Zdes tipo izmeneniya
 }
